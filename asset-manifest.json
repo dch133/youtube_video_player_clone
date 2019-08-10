@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/youtube_video_player_clone/static/js/main.fc8f7d9c.chunk.js",
+    "main.js.map": "/youtube_video_player_clone/static/js/main.fc8f7d9c.chunk.js.map",
+    "runtime~main.js": "/youtube_video_player_clone/static/js/runtime~main.bd872fff.js",
+    "runtime~main.js.map": "/youtube_video_player_clone/static/js/runtime~main.bd872fff.js.map",
+    "static/js/2.37b03199.chunk.js": "/youtube_video_player_clone/static/js/2.37b03199.chunk.js",
+    "static/js/2.37b03199.chunk.js.map": "/youtube_video_player_clone/static/js/2.37b03199.chunk.js.map",
+    "index.html": "/youtube_video_player_clone/index.html",
+    "precache-manifest.29f4e51b05bd90df362381ce80e71e61.js": "/youtube_video_player_clone/precache-manifest.29f4e51b05bd90df362381ce80e71e61.js",
+    "service-worker.js": "/youtube_video_player_clone/service-worker.js"
+  }
+}
