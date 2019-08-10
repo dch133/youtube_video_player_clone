@@ -32,7 +32,7 @@ export default () => {
       params: {
         part: "snippet",
         maxResults: 5,
-        key: "AIzaSyCBgnsf_9evSKCgpi6qwMLCDqkMoYNh79U",
+        key: [youtube-api-key],
         q: searchTerm,
       }
     });
