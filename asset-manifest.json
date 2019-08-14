@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/youtube_video_player_clone/static/js/main.6a5413e6.chunk.js",
-    "main.js.map": "/youtube_video_player_clone/static/js/main.6a5413e6.chunk.js.map",
+    "main.js": "/youtube_video_player_clone/static/js/main.bfc270d2.chunk.js",
+    "main.js.map": "/youtube_video_player_clone/static/js/main.bfc270d2.chunk.js.map",
     "runtime~main.js": "/youtube_video_player_clone/static/js/runtime~main.bd872fff.js",
     "runtime~main.js.map": "/youtube_video_player_clone/static/js/runtime~main.bd872fff.js.map",
     "static/js/2.37b03199.chunk.js": "/youtube_video_player_clone/static/js/2.37b03199.chunk.js",
     "static/js/2.37b03199.chunk.js.map": "/youtube_video_player_clone/static/js/2.37b03199.chunk.js.map",
     "index.html": "/youtube_video_player_clone/index.html",
-    "precache-manifest.9c63f296f9b5155ecabf34630abac3c4.js": "/youtube_video_player_clone/precache-manifest.9c63f296f9b5155ecabf34630abac3c4.js",
+    "precache-manifest.e1abd2b649fac8b93512dc6b17894b22.js": "/youtube_video_player_clone/precache-manifest.e1abd2b649fac8b93512dc6b17894b22.js",
     "service-worker.js": "/youtube_video_player_clone/service-worker.js"
   }
 }
